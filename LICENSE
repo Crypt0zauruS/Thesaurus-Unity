@@ -1,14 +1,21 @@
-Copyright (c) 2026 Crypt0zauruS. Tous droits reserves.
+MIT License
 
-Ce depot est rendu public uniquement dans le cadre de la remise
-du cours de Programmation 3D Hiver 2026.
+Copyright (c) 2026 Crypt0zauruS
 
-L'acces en lecture est accorde au personnel enseignant aux seules
-fins de consultation et de correction.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Toute copie, reproduction, reutilisation ou distribution du code
-source, en tout ou en partie, est strictement interdite sans
-autorisation ecrite prealable de l'auteur.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Toute infraction constitue une violation du droit d'auteur et
-du reglement sur l'integrite academique de l'établissement (plagiat).
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
